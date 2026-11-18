@@ -1,0 +1,9 @@
+.build/
+.swiftpm/
+publish/
+.config/
+.version/versionBuild
+buildNotes.*
+.DS_Store
+*.md
+!README.md
